@@ -1,6 +1,7 @@
-# Mind Map Generator
+# Mind Map Generator (Flutter APP)
 
-Mind Map Generator is a Flutter app that helps you visually organize ideas using draggable nodes and dynamic connections. Designed for brainstorming, note-taking, and memory techniques, the app supports smooth zooming and panning for flexible map creation.
+Mind Map Generator is a Flutter app that helps you visually organize ideas using draggable nodes and dynamic connections. 
+Designed for brainstorming, note-taking, and memory techniques, the app supports smooth zooming and panning for flexible map creation.
 
 ## ✨ Features
 
