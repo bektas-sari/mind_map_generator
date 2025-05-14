@@ -22,7 +22,7 @@ Designed for brainstorming, note-taking, and memory techniques, the app supports
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/mind_map_generator.git
+git clone https://github.com/bektas-sari/mind_map_generator.git
 cd mind_map_generator
 flutter pub get
 flutter run
