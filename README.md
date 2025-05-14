@@ -47,8 +47,3 @@ dependencies:
 
 MIT License
 
----
-
-> Visually connect your thoughts and unlock your creativity.
-
----
