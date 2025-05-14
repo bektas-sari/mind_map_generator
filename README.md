@@ -52,7 +52,3 @@ MIT License
 > Visually connect your thoughts and unlock your creativity.
 
 ---
-
-### 📌 Short Description (≤ 350 characters)
-
-A Flutter app for creating mind maps with draggable nodes, dynamic connections, and zoom/pan support. Ideal for brainstorming, memory techniques, and study notes. Double-tap to edit node labels. Clean and interactive design.
